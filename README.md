@@ -10,6 +10,7 @@ This repo will be updated periodically as we come across more resources we think
 ## Docker
 
 ### YouTube ***Free***
+
 - Docker and Kubernetes Tutorial | Full Course [2021]: https://www.youtube.com/watch?v=bhBSlnQcq2k 
 
 - Learn Docker - DevOps with Node.js & Express: https://www.youtube.com/watch?v=9zUHg7xjIqQ 
@@ -19,17 +20,23 @@ This repo will be updated periodically as we come across more resources we think
 - Docker Tutorial for Beginners [FULL COURSE in 3 Hours]: https://www.youtube.com/watch?v=3c-iBn73dDE 
 
 ### Udemy ***$***
+
 - Docker Mastery: with Kubernetes +Swarm from a Docker Captain: https://www.udemy.com/course/docker-mastery/ 
+
 - Docker and Kubernetes: The Complete Guide: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/ 
 
 ### ACloudGuru ***$***
+
 - Docker Quick Start: https://acloudguru.com/course/docker-quick-start 
+
 - Docker Certified Associate (DCA): https://acloudguru.com/course/docker-certified-associate-dca 
+
 - Docker - Deep Dive: https://acloudguru.com/course/docker-deep-dive 
 
 ## Kubernetes
 
 ### YouTube ***Free***
+
 - Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]: https://www.youtube.com/watch?v=X48VuDVv0do 
 
 - Kubernetes Crash Course for Absolute Beginners: https://www.youtube.com/watch?v=s_o8dwzRlu4 
@@ -43,6 +50,7 @@ This repo will be updated periodically as we come across more resources we think
 - Kubecon North America 2019 Playlist: https://www.youtube.com/playlist?list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien 
 
 ### Udemy ***$***
+
 - Docker Mastery: with Kubernetes +Swarm from a Docker Captain: https://www.udemy.com/course/docker-mastery/ 
 
 - Docker and Kubernetes: The Complete Guide: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/ 
@@ -64,6 +72,7 @@ This repo will be updated periodically as we come across more resources we think
 ## Rancher
 
 ### YouTube ***Free***
+
 - High Availability Rancher on a Kubernetes Cluster(K3s): https://www.youtube.com/watch?v=APsZJbnluXg 
 
 - K3d - How to run Kubernetes cluster locally using Rancher K3s: https://www.youtube.com/watch?v=mCesuGk-Fks 
@@ -87,6 +96,7 @@ Managing RBAC Cross Multiple Kubernetes Clusters - Alena Prokharchyk, Rancher La
 - Rancher Desktop Deep Dive: https://www.youtube.com/watch?v=fa59nQvC2S0 
 
 ### ACloudGuru ***$***
+
 - Introduction to Rancher: https://acloudguru.com/course/introduction-to-rancher 
 
 ## About Alphabravo
