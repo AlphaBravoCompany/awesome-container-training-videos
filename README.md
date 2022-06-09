@@ -49,6 +49,10 @@ This repo will be updated periodically as we come across more resources we think
 
 - Kubecon North America 2019 Playlist: https://www.youtube.com/playlist?list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien 
 
+### Udemy ***FREE***
+
+- Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On - James Spurin: https://www.udemy.com/course/diveintokubernetes-introduction/
+
 ### Udemy ***$***
 
 - Docker Mastery: with Kubernetes +Swarm from a Docker Captain: https://www.udemy.com/course/docker-mastery/ 
